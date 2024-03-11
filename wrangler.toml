@@ -5,3 +5,4 @@ private = false
 account_id = ""
 route = ""
 workers_dev = true
+compatibility_date = "2024-03-11"
